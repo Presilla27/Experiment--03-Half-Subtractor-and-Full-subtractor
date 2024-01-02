@@ -84,6 +84,8 @@ endmodule
 
 
 ##Truthtable
+
+
 ![image](https://github.com/Presilla27/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/155127632/d3faa789-a2ae-46ce-8c1c-3e74e3eb9396)
 
 
