@@ -103,4 +103,6 @@ endmodule
 
 
 ## Result:
+
+
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
