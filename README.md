@@ -11,6 +11,8 @@ To design a half subtractor and full subtractor circuit and verify its truth tab
 Subtractor circuits take two binary numbers as input and subtract one binary number input from the other binary number input. Similar to adders, it gives out two outputs, difference and borrow (carry-in the case of Adder). There are two types of subtractors.
 
 ##procedure
+
+
 1.Use module projname(input,output) to start the Verilog programmming.
 
 2.Assign inputs and outputs using the word input and output respectively.
